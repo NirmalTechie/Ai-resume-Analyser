@@ -66,14 +66,7 @@ Future of AI Resume Analysis
 
 The future of AI Resume Analyzers looks promising with advancements in deep learning and NLP. Features such as:
 
-AI-driven Resume Enhancement Suggestions
 
-Voice & Video Resume Analysis
-
-Blockchain-based Credential Verification
-
-Real-time Candidate Chatbots
-can revolutionize hiring, making the recruitment process more efficient and data-driven.
 
 Conclusion
 
